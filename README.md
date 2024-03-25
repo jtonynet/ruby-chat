@@ -40,7 +40,7 @@
 <a id="index"></a>
 ### ⤴️ index:
 
-__[Ruby Blog](#ruby-chat)__:<br/>
+__[Ruby Chat](#ruby-chat)__:<br/>
   1. ⤴️ [Index](#index)
   2. 📗 [About](#about)
   3. 💻 [Run the Project](#run)
