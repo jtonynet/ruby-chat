@@ -12,7 +12,7 @@
     https://devicon.dev/
     https://simpleicons.org/
 -->
-[<img src="./docs/assets/images/icons/ruby.svg" width="25px" height="25px" alt="ruby logo" title="Ruby">](https://www.ruby-lang.org/en/) [<img src="./docs/assets/images/icons/rubygems.svg" width="25px" height="25px" alt="rubygems logo" title="Ruby Gems">](https://rubygems.org/) [<img src="./docs/assets/images/icons/rubyonrails.svg" width="25px" height="25px" alt="rubyonrails logo" title="Ruby On Rails">](https://rubyonrails.org/) [<img src="./docs/assets/images/icons/stimulus.svg" width="25px" height="25px" alt="stimulus logo" title="Stimulus">](https://stimulus.hotwired.dev/) [<img src="./docs/assets/images/icons/turbo.svg" width="25px" height="25px" alt="turbo logo" title="Turbo">](https://turbo.hotwired.dev/) [<img src="./docs/assets/images/icons/html5.svg" width="25px" height="25px" alt="html 5 logo" title="HTML 5">](https://dev.w3.org/html5/spec-LC/) [<img src="./docs/assets/images/icons/css3.svg" width="25px" height="25px" alt="css 3 logo" title="CSS 3">](https://www.w3.org/Style/CSS/Overview.en.html) [<img src="./docs/assets/images/icons/javascript.svg" width="25px" height="25px" alt="javascript logo" title="JavaScript">](https://developer.mozilla.org/en-US/docs/Web/JavaScript) [<img src="./docs/assets/images/icons/ubuntu.svg" width="25px" height="25px Logo" title="Ubunto" alt="Ubunto" />](https://ubuntu.com/) [<img src="./docs/assets/images/icons/visualstudiocode.svg" width="25px" height="25px" alt="VsCode Logo" title="VsCode">](https://code.visualstudio.com/) 
+[<img src="./docs/assets/images/icons/ruby.svg" width="25px" height="25px" alt="ruby logo" title="Ruby">](https://www.ruby-lang.org/en/) [<img src="./docs/assets/images/icons/rubygems.svg" width="25px" height="25px" alt="rubygems logo" title="Ruby Gems">](https://rubygems.org/) [<img src="./docs/assets/images/icons/rubyonrails.svg" width="25px" height="25px" alt="rubyonrails logo" title="Ruby On Rails">](https://rubyonrails.org/) [<img src="./docs/assets/images/icons/stimulus.svg" width="25px" height="25px" alt="stimulus logo" title="Stimulus">](https://stimulus.hotwired.dev/) [<img src="./docs/assets/images/icons/turbo.svg" width="25px" height="25px" alt="turbo logo" title="Turbo">](https://turbo.hotwired.dev/) [<img src="./docs/assets/images/icons/html5.svg" width="25px" height="25px" alt="html 5 logo" title="HTML 5">](https://dev.w3.org/html5/spec-LC/) [<img src="./docs/assets/images/icons/css3.svg" width="25px" height="25px" alt="css 3 logo" title="CSS 3">](https://www.w3.org/Style/CSS/Overview.en.html) [<img src="./docs/assets/images/icons/javascript.svg" width="25px" height="25px" alt="javascript logo" title="JavaScript">](https://developer.mozilla.org/en-US/docs/Web/JavaScript) [<img src="./docs/assets/images/icons/ubuntu.svg" width="25px" height="25px Logo" title="Ubunto" alt="Ubunto" />](https://ubuntu.com/) [<img src="./docs/assets/images/icons/github.svg" width="25px" height="25px" alt="GitHub Logo" title="GitHub">](https://github.com/jtonynet) [<img src="./docs/assets/images/icons/visualstudiocode.svg" width="25px" height="25px" alt="VsCode Logo" title="VsCode">](https://code.visualstudio.com/) 
 
 <!--
 
@@ -36,16 +36,16 @@ _*This is an initial readme, here you can find the project's goals, and some fea
 
 ---
 
-## 🕸️ Found me in Web:
+## 🕸️ Found me in Web
 
 [![linkedin](https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jos%C3%A9-r-99896a39/) [![dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/learningenuity) [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:learningenuity@gmail.com) [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/aromademirtilo) [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/learningenuity) 
 
 ---
 
-## 📁 The Project:
+## 📁 The Project
 
 <a id="index"></a>
-### ⤴️ index:
+### ⤴️ index
 
 __[Ruby TurboChat](#turbochat)__:<br/>
   1. ⤴️ [Index](#index)
@@ -67,7 +67,7 @@ __[Ruby TurboChat](#turbochat)__:<br/>
 ---
 
 <a id="about"></a>
-### 📗 About:
+### 📗 About
 
 #### 📋 Ruby On Rails Chat
 
@@ -85,7 +85,7 @@ I also used the following videos in PT-BR as a source:
 ---
 
 <a id="run"></a>
-### 💻 Run the Project:
+### 💻 Run the Project
 
 We are currently running the application locally without containerization, but infra dependencies are dockerized
 
@@ -117,7 +117,7 @@ $ docker compose up
 ---
 
 <a id="ia"></a>
-### 🤖 Use of AI:
+### 🤖 Use of AI
 
 The header figures on this page were created with the help of artificial intelligence and a minimum of retouching and construction in Gimp [<img src="./docs/assets/images/icons/gimp.svg" width="30" height="30 " title="Gimp" alt="Gimp Logo" />](https://www.gimp.org/)
 
